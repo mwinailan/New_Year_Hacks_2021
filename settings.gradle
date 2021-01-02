@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "New_Year_New_Hacks"
