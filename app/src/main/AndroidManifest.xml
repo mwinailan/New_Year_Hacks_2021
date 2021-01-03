@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.New_Year_New_Hacks">
-        <activity android:name=".AngerGif"></activity>
+        <activity android:name=".MoodDetectorActivity"></activity>
+        <activity android:name=".AngerGif" />
         <activity android:name=".AnxietyGif" />
         <activity android:name=".SadnessGif" />
         <activity android:name=".ChooseMood" />
