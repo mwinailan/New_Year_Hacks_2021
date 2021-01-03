@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "525368905790",
+    "project_id": "newyearhacks",
+    "storage_bucket": "newyearhacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525368905790:android:c819be5034b76072cb416f",
+        "android_client_info": {
+          "package_name": "com.example.new_year_new_hacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525368905790-il7hs8pn5d6fglvuti17prmqjp2v275q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLzxKVUAjQ7bpwBhikwQJx1MBRyqV6Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525368905790-il7hs8pn5d6fglvuti17prmqjp2v275q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525368905790:android:a50fa1792d30deaacb416f",
+        "android_client_info": {
+          "package_name": "com.example.new_years_new_hacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525368905790-il7hs8pn5d6fglvuti17prmqjp2v275q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLzxKVUAjQ7bpwBhikwQJx1MBRyqV6Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525368905790-il7hs8pn5d6fglvuti17prmqjp2v275q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
